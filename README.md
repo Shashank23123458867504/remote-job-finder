@@ -88,15 +88,7 @@ remote-job-finder/
 - Working with external API data and filtering results  
 - Ensuring event listeners work for dynamically created elements
 
-```md
-## 📸 Screenshots
-
-### Home Page
-<img width="1918" height="970" alt="home(netlify)" src="https://github.com/user-attachments/assets/445015c1-529f-462d-b1ac-41c49828b049" />
-
-
-### Saved Jobs Page
-<img width="1918" height="915" alt="saved-jobs" src="https://github.com/user-attachments/assets/62902b7b-ccf8-4f11-9892-87d8ff7c9969" />
+---
 
 ## 👨‍💻 Author
 **Shashank S**
