@@ -90,5 +90,14 @@ remote-job-finder/
 
 ---
 
+```md
+## 📸 Screenshots
+
+### Home Page
+![Home Page](assets/home.png)
+
+### Saved Jobs Page
+![Saved Jobs](assets/saved-jobs.png)
+
 ## 👨‍💻 Author
 **Shashank S**
