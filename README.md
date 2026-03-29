@@ -1,7 +1,7 @@
 # Remote Job Finder Web App
 
 ## 🌐 Live Demo
-https://zingy-begonia-e9a5ab.netlify.app/
+[View Live Project](https://zingy-begonia-e9a5ab.netlify.app/)
 
 ## 📌 Overview
 Remote Job Finder is a responsive web application that allows users to search and explore remote job opportunities. It fetches real-time job listings using an external API and enables users to save jobs for later viewing.
@@ -29,6 +29,8 @@ Remote Job Finder is a responsive web application that allows users to search an
 ---
 
 ## 📂 Project Structure
+
+```plaintext
 remote-job-finder/
 ├── index.html
 ├── saved-jobs.html
@@ -70,6 +72,31 @@ remote-job-finder/
 - Add job details modal/page
 
 ---
+
+## ▶️ Run Locally
+
+1. Download or clone the repository
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
+
+## 🧩 Challenges Faced
+
+- Handling dynamic rendering of job cards using JavaScript  
+- Managing saved jobs using localStorage  
+- Working with external API data and filtering results  
+- Ensuring event listeners work for dynamically created elements
+
+```md
+## 📸 Screenshots
+
+### Home Page
+<img width="1918" height="970" alt="home(netlify)" src="https://github.com/user-attachments/assets/445015c1-529f-462d-b1ac-41c49828b049" />
+
+
+### Saved Jobs Page
+<img width="1918" height="915" alt="saved-jobs" src="https://github.com/user-attachments/assets/62902b7b-ccf8-4f11-9892-87d8ff7c9969" />
 
 ## 👨‍💻 Author
 **Shashank S**
