@@ -91,5 +91,15 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](home.png)
+
+### Saved Jobs Page
+![Saved Jobs Page](saved-jobs.png)
+
+---
+
 ## 👨‍💻 Author
 **Shashank S**
