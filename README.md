@@ -1,28 +1,28 @@
 # Remote Job Finder Web App
 
-## 🌐 Live Demo
+## Live Demo
 👉 [View Live Project](https://zingy-begonia-e9a5ab.netlify.app/)
 
 ---
 
-## 📌 Overview
+## Overview
 Remote Job Finder is a responsive web application that allows users to search and explore remote job opportunities. It fetches real-time job listings using an external API and enables users to save jobs for later viewing.
 
 This project demonstrates frontend development skills including API integration, dynamic UI rendering, and client-side data persistence.
 
 ---
 
-## 🚀 Features
-- 🔍 Search jobs by keyword  
-- 🧠 Filter jobs by category  
-- 🌐 Fetch real-time job listings using API  
-- 💾 Save jobs using localStorage  
-- 📄 View saved jobs on a separate page  
-- 📱 Responsive design using Bootstrap  
+## Features
+- Search jobs by keyword  
+- Filter jobs by category  
+- Fetch real-time job listings using API  
+- Save jobs using localStorage  
+- View saved jobs on a separate page  
+- Responsive design using Bootstrap  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5  
 - CSS3  
 - Bootstrap 5  
@@ -32,7 +32,7 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
     remote-job-finder/
     ├── index.html
@@ -46,7 +46,7 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 - The homepage fetches job data from the Remotive Jobs API using `fetch()` and `async/await`  
 - Job data is processed and dynamically rendered as cards using JavaScript  
 - Users can search jobs by keyword and category  
@@ -56,7 +56,7 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## 🎯 Key Concepts Used
+## Key Concepts Used
 - DOM Manipulation  
 - Event Listeners  
 - Fetch API  
@@ -67,7 +67,7 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 - Add pagination / load more jobs  
 - Improve category filtering with dropdowns  
 - Add loading spinner  
@@ -76,14 +76,14 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 1. Download or clone the repository  
 2. Open the project folder  
 3. Run `index.html` in your browser  
 
 ---
 
-## 🧩 Challenges Faced
+## Challenges Faced
 - Handling dynamic rendering of job cards using JavaScript  
 - Managing saved jobs using localStorage  
 - Working with external API data and filtering results  
@@ -91,7 +91,7 @@ This project demonstrates frontend development skills including API integration,
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home Page](home.png)
